@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F7F0C1BF-484B-3474-B1B9-6ABB54DCD452}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "prototype",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject"
+			]
+		}
+	]
+}
